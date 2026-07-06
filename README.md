@@ -1,2 +1,2 @@
-# VsaDemo1
-Vertical Slice Architecture Demo 1
+# Vertical Slice Archktecture Demo1
+Source Code
